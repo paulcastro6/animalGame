@@ -1,0 +1,26 @@
+p{
+	padding: 25px;
+}
+
+#animalDiv{
+	margin:25px;
+}
+
+#animalSubmit{
+	margin-top: 10px;
+}
+
+#buttonLayout{
+	margin-top: -3px;
+}
+
+#rating{
+	color: black;
+}
+
+.animalButton{
+	width: 100px;
+	height: 23px;
+	background-color: skyblue;
+	margin-right: 15px;
+}
